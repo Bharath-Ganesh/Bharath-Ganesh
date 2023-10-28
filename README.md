@@ -6,7 +6,7 @@
 
 <p align="center">I'm a software developer at Oracle, India, and I do content on Software development and design principles. </p>
 
-  ![Visits Badge](https://badges.pufler.dev/visits/Bharath-Ganesh/Bharath-Ganesh)](https://badges.pufler.dev)
+  ![Visits Badge](https://badges.pufler.dev/visits/Bharath-Ganesh/Bharath-Ganesh)
   
 
 - 🌱 I’m currently learning **Software Development Principles**
@@ -60,8 +60,8 @@
 
 | 🎁️ Project Name                                | ⭐️ Stars  | 📚 Forks  | ✨ Contribution                                                                                                                                                                                                               |
 |:------------------------------------------------|:---------:|:---------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Checkstyle (https://github.com/facebook) | **7.9k** | **8.6k**  | [fix: Fixes #14146 Twitter Navigation URL #14154](https://github.com/checkstyle/checkstyle/pull/12935)                                                                                                                                 |
-| Jenkins CI                                        |  **220**  |  **62**  | [feat: dockerized the application #1629](https://github.com/jenkinsci/pipeline-input-step-plugin/pull/128)                                                                                                  |
+| Checkstyle                                        | **7.9k** | **8.6k**  | [#12932 Improve grammar in AbstractClassNameCheck #12932](https://github.com/checkstyle/checkstyle/pull/12935)                                                                                                                                 |
+| Jenkins CI                                        |  **14**  |  **62**  | [#69889 Describe identifiers more clearly in help and documentation  #128](https://github.com/jenkinsci/pipeline-input-step-plugin/pull/128)                                                                                                  |
 
 
 *Backend*
