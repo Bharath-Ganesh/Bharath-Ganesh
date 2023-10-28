@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg">
 
-<p align="center">I'm a software developer at Oracle, India, and I do content on Software development and design principles. </p>
+<p> I'm a software developer at Oracle, India, and I do content on Software development and design principles. </p>
 
   ![Visits Badge](https://badges.pufler.dev/visits/Bharath-Ganesh/Bharath-Ganesh)
   
