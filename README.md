@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg">
 
-<p> I'm a software developer at Oracle, India, and I do content on Software development and design principles. </p>
+<p>I'm a software developer at Oracle, India, and I do content on Software development and design principles. </p>
 
   ![Visits Badge](https://badges.pufler.dev/visits/Bharath-Ganesh/Bharath-Ganesh)
   
@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source & Freelance projects**
 
-- 📝 I write technical articles on https://www.baeldung.com/author/bharathganesh
+- 📝 I write technical articles on [Baeldung](https://www.baeldung.com/author/bharathganesh)
 
-- 💬 Ask me about **Java, Docker, Microservices , Java, Spring Boot, Design Principles **
+- 💬 Ask me about **Java | Docker | Microservices | Java | Spring Boot | Design Principles**
 
 - 📫 How to reach me **bharath110996@gmail.com**
 
@@ -63,6 +63,12 @@
 | Checkstyle                                        | **7.9k** | **8.6k**  | [#12932 Improve grammar in AbstractClassNameCheck #12932](https://github.com/checkstyle/checkstyle/pull/12935)                                                                                                                                 |
 | Jenkins CI                                        |  **14**  |  **62**  | [#69889 Describe identifiers more clearly in help and documentation  #128](https://github.com/jenkinsci/pipeline-input-step-plugin/pull/128)                                                                                                  |
 
+*Programming Languages*
+<p align="left">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+</p>
 
 *Backend*
 <p align="left">
@@ -96,6 +102,3 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
 </p>
-
-  
-  
