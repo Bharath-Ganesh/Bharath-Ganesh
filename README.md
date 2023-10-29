@@ -6,7 +6,7 @@
 
 <p>I'm a software developer at Oracle, India, and I do content on Software development and design principles. </p>
 
-  ![Visits Badge](https://badges.pufler.dev/visits/Bharath-Ganesh/Bharath-Ganesh)](https://badges.pufler.dev)  
+  ![Visits Badge](https://badges.pufler.dev/visits/Bharath-Ganesh/Bharath-Ganesh)
   
 
 - 🌱 I’m currently learning **Software Development Principles**
